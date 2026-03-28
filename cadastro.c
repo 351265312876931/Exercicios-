@@ -7,7 +7,7 @@ int main(){
 	char sexo; 
 
 	printf("Nome: ");
-	scanf ("%29s", &nome); 
+	scanf ("%29s", nome); 
 
 	printf("Idade: "); 
 	scanf("%d", &idade); 
