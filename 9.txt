@@ -1,0 +1,15 @@
+O número inteiro ( int ) é um tipo de dado que armazena um número sem parte decimal e ocupa geralmente 4 bytes na memória.
+Exemplos
+int idade = 20; 
+int nmr_funcionarios = 50; 
+
+O número de ponto flutuante ( float ) armazena valores numéricos com parte decimal, ocupando 4 bytes na memória.
+Exemplos 
+float salario = 1621.00;
+float altura = 1.82;
+
+O 'char' armazena um único caractere da tabela ascii, ocupa 1 byte na memória. 
+Exemplos
+
+char sexo = 'M';
+char symbol = '#';
