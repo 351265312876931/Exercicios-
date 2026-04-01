@@ -18,4 +18,5 @@ int main()
     printf("Distancia de A e B = %f", dist);
 
     return 0;
+    
 }
