@@ -1,0 +1,8 @@
+O scanf é usado para ler dados inseridos pelo usuário.
+Exemplo 
+
+float raio; 
+
+scanf ( "%f",&raio ); 
+
+O scanf precisa saber aonde armazenar o valor, o operador '&' retorna o endereço de memória da variável, esse é a importância desse operador.
